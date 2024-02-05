@@ -1,0 +1,8 @@
+query FetchAllTodos {
+  todos {
+    data {
+      id
+      title
+    }
+  }
+}
